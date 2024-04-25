@@ -1,6 +1,6 @@
 # Ejercicio de Manejo de Items con Express
 
-Este ejercicio consiste en una aplicación Express que gestiona una lista de items. Los items tienen un id, nombre y precio. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre estos items, así como buscarlos por diferentes criterios.
+Este ejercicio consiste en una aplicación Express que gestiona una lista de items. Los items tienen un id, nombre y precio. La aplicación permite realizar operaciones CRUD (Post, Read, Put, Delete) sobre estos items, así como buscarlos por diferentes criterios.
 
 ## Configuración
 
